@@ -34,8 +34,8 @@ node_modules
 Vagrantfile
 homestead.yml
 wp-cli.*.yml
-.env.*
-.env
+#.env.*
+#.env
 
 # But Keep these
 # --------------------------
